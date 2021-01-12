@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+this is the description of the repl. Nothing special
 
 ## Table of Contents
 
