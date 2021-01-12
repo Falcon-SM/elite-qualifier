@@ -1,6 +1,6 @@
-# Title
+# Welcome to the README file
 
-this is the description of the repl. Nothing special
+This readme file is VERY important
 
 ## Table of Contents
 
@@ -12,14 +12,18 @@ this is the description of the repl. Nothing special
 
 ## Background
 
-This is why this application exists.
+I made this because I was in class and they told me to
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Step 1:
+read the readme
 
 ## Usage
+Step 1:
+have python.
 
-These are the steps to use the application or interact with it.
+Step 2: 
+thats it
 
 ### Any optional sections
